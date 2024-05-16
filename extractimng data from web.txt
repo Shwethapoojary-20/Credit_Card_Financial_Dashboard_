@@ -1,0 +1,9 @@
+https://en.wikipedia.org/wiki/List_of_asset_management_firms
+
+
+{TECHNICAL SKILLS}
+		{•Python – Conditional and flow controls, Data Structures, Functions and OOPS 
+   •Advanced Excel – Pivots Table, Pivot Charts, Lookups, Power                    Query, Conditional Formatting , Creating interactive dashboard
+         • Power BI – Data Modeling, Power Query Editor, DAX, ETL           
+           (Extract, Transform, and Load), Dashboard
+          • SQL – DDL, DML, Joins, Queries, Views, Function }
